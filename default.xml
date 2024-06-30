@@ -36,5 +36,5 @@
   <project path="external/stardoc" name="platform/external/stardoc" />
   <project path="external/python/absl-py" name="platform/external/python/absl-py" />
   
-  <project path="prebuilts/clang/host/linux-x86" name="linux-x86" clone-depth="1" remote="ordy" revision="main" /-->
+  <project path="prebuilts/clang/host/linux-x86" name="linux-x86" clone-depth="1" remote="ordy" revision="main" />
 </manifest>
