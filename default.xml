@@ -2,6 +2,7 @@
 <manifest>
   <remote  name="aosp" fetch="https://android.googlesource.com/" review="https://android-review.googlesource.com/" />
   <remote name="falt" fetch="https://github.com/KDEFFALT/" />
+  <remote name="ordy" fetch="https://github.com/belowzeroiq/" />
 
   <default revision="master-kernel-build-2022" remote="aosp" sync-j="4" />
   <superproject name="kernel/superproject" remote="aosp" revision="common-android13-5.15-lts" />
